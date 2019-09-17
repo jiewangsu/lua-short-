@@ -1,0 +1,7 @@
+/public/uploads/images/*.jpg
+/public/uploads/files/*.pdf
+/app/config/config.php
+/app/config/conf.php
+.idea/
+/logs/
+/app/cache
