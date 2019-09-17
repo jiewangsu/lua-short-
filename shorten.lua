@@ -5,6 +5,8 @@ local redis = require "tools.redis_client"
 local http = require "resty.http"
 local logger = require "tools.logger"
 
+
+
 function _M.deal_command (self)
     --数据库操作
     if ret == true then
