@@ -5,4 +5,7 @@ end
 local function edit()
     
 end
+local function wangshuai()
+    print(ngx)
+end
 return _M
