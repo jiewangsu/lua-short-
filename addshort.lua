@@ -8,4 +8,6 @@ end
 local function wangshuai()
     print(ngx)
 end
+
+print(123)
 return _M
