@@ -10,4 +10,5 @@ local function wangshuai()
 end
 
 print(123)
+print(1235456)
 return _M
